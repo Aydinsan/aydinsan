@@ -1,0 +1,44 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+  [[main]]
+    name = "ホーム"
+    url = "/"
+    weight = 10
+    
+  [[main]]
+    name = "英語 レッスン"
+    url = "lessons/english/"
+    weight = 20
+    
+  [[main]]
+    identifier = "design"
+    name = "デザイン"
+    url = "design/"
+    weight = 30
+  
+  [[main]]
+    parent = "design"
+    name = "ウェブ デザイン"
+    url = "design/web-design/"
+    weight = 32
+
+  [[main]]
+    parent = "design"
+    name = "グラフィック デザイン"
+    url = "design/graphic-design/"
+    weight = 34  
+
+  [[main]]
+    name = "コンタック"
+    url = "contact/"
+    weight = 50
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

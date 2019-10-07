@@ -1,0 +1,51 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+ [ja]
+  languageCode = "ja-jp"
+  contentDir = "content/ja"
+
+ [en]
+  languageCode = "en-us"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "AYDIN-SAN"
+
+  [en.params]
+    description = "I am AYDIN, I teach English in Nagasaki, Sasebo, Saga. Also, I develop websites, blogs and graphic design for businesses and individuals."
+  
+  
+[[en.menu.main]]
+   name = "Home"
+   url = "/"
+   weight = 10
+
+[[en.menu.main]]
+   name = "English"
+   url = "lessons/english/"
+   weight = 20
+  
+[[en.menu.main]]
+   identifier = "design"
+   name = "Design"
+   url = "design/"
+   weight = 30
+
+[[en.menu.main]]
+   parent = "design"
+   name = "Web Design"
+   url = "design/web-design/"
+   weight = 30
+
+[[en.menu.main]]
+   parent = "design"
+   name = "Graphic Design"
+   url = "design/graphic-design/"
+   weight = 34
+
+[[en.menu.main]]
+   name = "Contact"
+   url = "contact/"
+   weight = 60
+ 
