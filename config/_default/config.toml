@@ -16,7 +16,7 @@ baseurl = "https://aydinsan.net/"
 copyright = "{year} &copy; AYDIN-SAN "
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-149596316-1"
 
 ############################
 ## Advanced options below ##

@@ -17,7 +17,7 @@ height = "350px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "こんにちは、アイドゥンです。 英語を教えます。"
-  content = "プライベート　英語レッスン、英会話　クラス、EIKEN、TOEIC　試験準備。"
+  content = "プライベート英語レッスン、英会話、英検、TOEIC 準備。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -49,7 +49,7 @@ height = "350px"
 
 [[item]]
   title = "グラフィックを作成します。"
-  content = "インフォグラフィック、ロゴ、チラシ、パンフレット、プレゼンテーション、ウェブ & SMSグラフィックなど"
+  content = "インフォグラフィック、ロゴ、チラシ、パンフレット、メニュー など"
   align = "center"
 
   overlay_color = "#F0B56E"  # An HTML color value.

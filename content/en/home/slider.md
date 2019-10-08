@@ -17,7 +17,7 @@ height = "350px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello, I am AYDIN. I teach English."
-  content = "Private English lessons, English conversation classes, EIKEN, TOEIC exam preparations."
+  content = "Private English lessons, Conversation classes, EIKEN, TOEIC exam preparations."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -49,7 +49,7 @@ height = "350px"
 
 [[item]]
   title = "I create graphics:"
-  content = "Infographics, logos, flyers, brochures, presentations, web & SMS graphics and more."
+  content = "Infographics, logos, flyers, brochures, presentations and more."
   align = "center"
 
   overlay_color = "#F0B56E"  # An HTML color value.
