@@ -4,7 +4,7 @@ subtitle:
 summary: 長崎、佐世保、佐賀で英語を教えています。 旅行英語、会話英語、TOEIC　テスト準備など。
 authors:
  - admin
-tags: []
+tags: ["英語", "プライベート 英会話", "英語レッスン", "ビジネス英語", "TOEIC", "英検" ]
 categories: []
 date: "2019-09-20T00:00:00Z"
 featured: false

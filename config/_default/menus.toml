@@ -30,11 +30,16 @@
     name = "グラフィック デザイン"
     url = "design/graphic-design/"
     weight = 34  
+  
+  [[main]]
+    name = "ブログ"
+    url = "post/"
+    weight = 50
 
   [[main]]
     name = "コンタック"
     url = "contact/"
-    weight = 50
+    weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
