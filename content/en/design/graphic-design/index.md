@@ -4,7 +4,7 @@ subtitle:
 summary: I create graphics for businesses; such as ads, flyers, catalogs, infographics, videos.
 authors: 
  - admin
-tags: ["graphic design", "infographics", "brochures", "logos", "menus"]
+tags: ["graphic design", "infographics", "brochures"]
 categories:
 date: "2019-09-20T00:00:00Z"
 featured: false

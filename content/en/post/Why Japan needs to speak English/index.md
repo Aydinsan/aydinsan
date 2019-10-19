@@ -4,7 +4,7 @@ subtitle:
 summary: Why Japan needs to speak English more than ever
 authors:
 - admin
-tags: ["English", "English communication", "2020 Tokyo Olympics", "Japan tourism"]
+tags: ["English", "English communication"]
 categories: []
 date: "2019-10-15T00:00:00Z"
 featured: true
@@ -26,13 +26,13 @@ image:
 projects: []
 ---
 
-## Being a center stage
+## 1- For being a center stage
 
 Japan is becoming a center stage in the world for international and sporting events; such as G7, G20, FIVB world cup, Rugby world cup, 2020 Tokyo Olympics. 
 
 I believe Japan is one of the few countries that can provide the most required necessities to host the world events. Japan has safe cities and towns, clean environment, well-designed transportation services, rich & delicious cuisine, friendly and humble citizens and so forth.
 
-## Being a popular tourist destination
+## 2- For being a popular tourist destination
 
 ![Kinkaku-ji Temple](./kinkakuji.jpg)
 

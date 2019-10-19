@@ -4,7 +4,7 @@ subtitle:
 summary: I teach Enlish in and around Nagasaki, Sasebo, Saga area. Private English lessons, conversational English, TOEIC preparation and so on.
 authors:
  - admin
-tags: ["English", "private English tutor", "English lessons", "Business English", "TOEIC"]
+tags: ["English", "private English tutor"]
 categories: []
 date: "2019-09-20T00:00:00Z"
 featured: false

@@ -4,7 +4,7 @@ subtitle:
 summary: I create a mobile friendly, modern and functional websites blogs for businesses and inviduals.
 authors: 
  - admin
-tags: ["website", "blog", "homepage", "English web content", "Japanese web content", "domain name"]
+tags: ["website", "blog", "Japanese web content"]
 categories:
 date: "2019-09-20T00:00:00Z"
 featured: false
